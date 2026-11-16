@@ -1,0 +1,12 @@
+# Protect database configuration
+/config/database.php
+
+# Temporary testing files
+/test_connection.php
+/password_hash.php
+
+# Windows temporary files
+Thumbs.db
+.DS_Store
+# Old nested backup
+/config/includes.php/
